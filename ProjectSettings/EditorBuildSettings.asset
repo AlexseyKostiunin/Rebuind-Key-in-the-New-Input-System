@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Rebind Manually.unity
+    guid: 0971cc39d78de974985c9a1ad7025084
   m_configObjects: {}
